@@ -1,2 +1,2 @@
 <?php
-define( 'DIRESS_LOG_DIR', DIRESS_DIR . '/log' );
+define( 'DIRESS_LOG_DIR', WPPM_DIR . '/log' );
