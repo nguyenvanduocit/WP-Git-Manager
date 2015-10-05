@@ -162,7 +162,7 @@ class Pull {
 		$comment_post_ID        = $this->id;
 		$comment_author_url     = '';
 		$comment_content        = $note;
-		$comment_agent          = 'WooCommerce';
+		$comment_agent          = 'PullManager';
 		$comment_type           = 'pull_note';
 		$comment_parent         = 0;
 		$comment_approved       = 1;
